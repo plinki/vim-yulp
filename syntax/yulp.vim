@@ -1,7 +1,7 @@
 " Vim syntax file
 " Language:     Yul+
 " Maintainer:   plinki
-" URL:
+" URL: https://github.com/plinki/vim-yulp
 
 if exists("b:current_syntax")
   finish
